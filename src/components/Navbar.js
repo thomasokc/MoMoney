@@ -11,7 +11,7 @@ export default function Navbar() {
     return (
         <nav className={styles.navbar}>
             <ul>
-                <li className={styles.title}>MoMoney</li>
+                <li className={styles.title}>MoMoneyApp</li>
 
                 {!user && (
                     <>
